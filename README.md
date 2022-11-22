@@ -5,6 +5,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mgx87/mgx87/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mgx87/mgx87/main/snake.svg" alt="Snake animation" />
 
 ###
